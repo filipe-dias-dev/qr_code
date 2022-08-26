@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-![/images](../qr_code/images/qr_code.jpeg)
+([QR_CODE Desktop](http://127.0.0.1:5500/images/index.html))
 
 **Habilidades HTML e CSS.** 🚀
 
