@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-![qr_code](C:\Users\Filipe\Desktop\qr_code\images\qr_code.jpeg)
+![/images](../qr_code/images/qr_code.jpeg)
 
 **Habilidades HTML e CSS.** 🚀
 
