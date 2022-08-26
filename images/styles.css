@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: rgb(225, 239, 244);
+    margin: 20px auto;
+}
+
+.texto_code {
+    text-align: center;
+    margin: 10 0; 
+    font-size: 20px;
+}
+
+.ul {
+    padding: 50px 0;
+}
+
+.qrcode {
+    padding: 20px 15px;
+    margin: auto;
+    border-radius: 20px;
+    width: 290px;
+    background-color: white;
+}
+
+#imagem {
+    width: 290px;
+    border-radius: 10px;
+}
+
+.texto_codes {
+    text-align: center;
+    margin: 20px;
+    width: 250px;
+    padding: auto;
+}
