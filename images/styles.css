@@ -7,7 +7,9 @@ body {
 .texto_code {
     text-align: center;
     margin: 10 0; 
-    font-size: 20px;
+    font-size: 22px;
+    font-family: sans-serif;
+    height: 50px;
 }
 
 .ul {
@@ -29,7 +31,9 @@ body {
 
 .texto_codes {
     text-align: center;
-    margin: 20px;
+    margin: 0px 20px;
     width: 250px;
     padding: auto;
+    font-family: sans-serif;
+    font-size: 14px;
 }
